@@ -119,6 +119,7 @@ const bookData = [
                 <li><strong>প্ল্যানিং:</strong> Notion বা Google Keep (আইডিয়া লেখার জন্য)।</li>
             </ul>
             <p style="text-align:center; margin-top:30px;">--- শুভকামনা, শুরু হোক আপনার যাত্রা! ---</p>
+            <p style="text-align:center; margin-top:30px;">--- MD. Monjurul Haque ---</p>
         `
     }
 ];
